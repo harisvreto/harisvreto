@@ -1,20 +1,20 @@
 <a href="https://harisvreto.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
-    <img src="./banner-light.png" width="100%" alt="hi, I'm Haris Vreto — Senior Full-stack Engineer · AI-native · UI/UX. Turning ideas into products that people love to use. Beside it, a hand-drawn sketch of a web page and a phone, with a red-pencil note: I sketch it, then I ship it.">
+    <img src="./banner-light.png" width="100%" alt="hi, I'm Haris Vreto — Senior Software Engineer · full-stack · AI-native · UI/UX. Turning ideas into products that people love to use. Beside it, a hand-drawn sketch of a web page and a phone, with a red-pencil note: I sketch it, then I ship it.">
   </picture>
 </a>
 
 <p align="center">
   <a href="https://harisvreto.dev"><b>harisvreto.dev</b></a> ·
   <a href="https://www.linkedin.com/in/harisvreto/">LinkedIn</a> ·
-  CV: <a href="https://harisvreto.dev/cv-hand-drawn.pdf">hand-drawn</a> or <a href="https://harisvreto.dev/cv.pdf">ATS-friendly</a> ·
+  <a href="https://harisvreto.dev/Haris-Vreto-CV.pdf">CV</a> (or the <a href="https://harisvreto.dev/Haris-Vreto-CV-hand-drawn.pdf">hand-drawn one-pager</a>) ·
   <a href="https://harisvreto.dev/llms.txt">/llms.txt</a>
 </p>
 
 ## hi 👋
 
-I'm **Haris** — a senior full-stack engineer at [Inkitt](https://www.inkitt.com) (San Francisco), shipping from Sarajevo. Ten-plus years across publishing, Web3 and healthcare; hobby UI/UX designer; AI running through every stage of my workflow — agentic coding, AI-assisted review, generated tests. The gap between *idea* and *shipped* has never been smaller, and I intend to keep abusing that.
+I'm **Haris** — a senior software engineer at [Inkitt](https://www.inkitt.com) (San Francisco), working full-stack from Sarajevo. Ten-plus years across publishing, Web3 and healthcare; hobby UI/UX designer; AI running through every stage of my workflow — agentic coding, AI-assisted review, generated tests. The gap between *idea* and *shipped* has never been smaller, and I intend to keep abusing that.
 
 - **building** — the Inkitt platform · [Penna](https://penna.harisvreto.dev) · HV-1, my portfolio's zero-API chatbot
 - **based** — Sarajevo · GMT+1, SF hours
