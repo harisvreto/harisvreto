@@ -16,7 +16,7 @@
 
 I'm **Haris** — a senior full-stack engineer at [Inkitt](https://www.inkitt.com) (San Francisco), shipping from Sarajevo. Ten-plus years across publishing, Web3 and healthcare; hobby UI/UX designer; AI running through every stage of my workflow — agentic coding, AI-assisted review, generated tests. The gap between *idea* and *shipped* has never been smaller, and I intend to keep abusing that.
 
-- **building** — the Inkitt platform · [Penna](https://penna.harisvreto.dev) · HV-1, my portfolio's zero-API chatbot
+- **building** — the Inkitt platform · [Penna](https://penna.harisvreto.dev) · HV-1, my portfolio's zero-API chatbot · **Inked**, a hand-drawn UI kit: Inked Icons and Inked Elements, in progress
 - **based** — Sarajevo · GMT+1, SF hours
 - **running on** — Bosnian coffee, unreasonable amounts
 - **open to** — interesting problems
